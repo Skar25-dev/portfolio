@@ -32,7 +32,7 @@ Dashboard de la web.
 ![Dashboard](images/dashboard.png)
 
 Previsualización del excel generado desde la web
-![Reporte generado](images/excel_preview.png)
+![Excel](images/excel_preview.png)
 
 ---
 
