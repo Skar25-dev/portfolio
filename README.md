@@ -49,10 +49,10 @@ Sistema basado en Machine Learning que predice la demanda futura de productos pa
 🔗 https://github.com/Skar25-dev/StockWise-AI
 
 **🖥️ Dashboard de Inteligencia:**
-![Dashboard](docs/screenshots/dashboard_stockwise.png)
+![Dashboard](images/dashboard_stockwise.png)
 
 **🤖 Asistente de Compra:**
-![Assistant](docs/screenshots/inventory_logic.png)
+![Assistant](images/inventory_logic.png)
 
 ---
 
