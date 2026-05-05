@@ -28,11 +28,31 @@ Sistema que genera y envía reportes automáticamente desde una interfaz web.
 
 🔗 https://github.com/Skar25-dev/business-process-automation-reports
 
-Dashboard de la web.
+**Dashboard de la web.**
 ![Dashboard](images/dashboard.png)
 
-Previsualización del excel generado desde la web
+**Previsualización del excel generado desde la web.**
 ![Excel](images/excel_preview.png)
+
+### 📈 StockWise AI - Predicción de stock inteligente
+
+Sistema basado en Machine Learning que predice la demanda futura de productos para optimizar las compras y evitar rotudas de inventario.
+
+**Qué hace:**
+- **Analiza patrones:** Detecta tendencias y estacionalidad en las ventas históricas.
+- **Predice el futuro:** Proyecta la demanda estimada para las próximas 24 horas y los próximos 30 días mediante regresión.
+- **Asistente de compra:** Genera alertas automáticas de "Stock Crítico" y calcula la cantidad exacta de unidades a pedir al proveedor.
+- **Visualización avanzada:** Dashboard interactivo con gráficas que comparan datos reales frente a proyecciones de la IA.
+
+**Tecnologías:** Python, Scikit-Learn (Random Forest), FastAPI, Chart.js
+
+🔗 https://github.com/Skar25-dev/StockWise-AI
+
+**🖥️ Dashboard de Inteligencia:**
+![Dashboard](docs/screenshots/dashboard_stockwise.png)
+
+**🤖 Asistente de Compra:**
+![Assistant](docs/screenshots/inventory_logic.png)
 
 ---
 
